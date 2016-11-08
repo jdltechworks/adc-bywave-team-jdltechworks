@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Bywave/colouredpencil.git"
+    "url": "git@github.com:jdltechworks/adc-bywave-team-jdltechworks.git"
   },
   "author": "Bywave Web and Mobile App Development",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bywave/colouredpencil/issues"
+    "url": "https://github.com/jdltechworks/adc-bywave-team-jdltechworks/issues"
   },
-  "homepage": "https://github.com/Bywave/colouredpencil#readme",
+  "homepage": "https://github.com/jdltechworks/adc-bywave-team-jdltechworks#readme",
   "dependencies": {
     "babel-cli": "^6.16.0",
     "babel-loader": "^6.2.5",
