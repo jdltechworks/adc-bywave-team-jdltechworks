@@ -1,7 +1,7 @@
 {
   "name": "ADC Bootcamp repo",
   "version": "1.0.0",
-  "description": "A Furniture Showcase Site",
+  "description": "Boiler plate for team jdltechworks",
   "main": "webpack.config.js",
   "scripts": {
     "start": "node index.js",
