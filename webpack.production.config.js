@@ -4,7 +4,6 @@ var webpack = require('webpack');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var TransferWebpackPlugin = require('transfer-webpack-plugin');
-var ServiceWorkerWebpackPlugin = require('serviceworker-webpack-plugin');
 
 
 module.exports = {
