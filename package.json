@@ -1,5 +1,5 @@
 {
-  "name": "ADC Bootcamp repo",
+  "name": "adc-react",
   "version": "1.0.0",
   "description": "Boiler plate for team jdltechworks",
   "main": "webpack.config.js",
